@@ -260,11 +260,11 @@ Key dependencies:
 - [`gpytorch>=1.11`](https://github.com/cornellius-gp/gpytorch) — scalable Gaussian processes for the SVDKL layer.
 - [`lightning>=2.0`](https://github.com/Lightning-AI/pytorch-lightning) — training loop and checkpointing.
 
-Core code (available on GitHub):
+Core code is available as a [GitHub Gist](https://gist.github.com/sponde25/1851362bd1449b5236690277769309b1):
 
-- `models.py` — model wrappers for MC Dropout, MVEE, and SVDKL (including `SVDKLLightningModule`).
-- `acquisition.py` — clustering and uncertainty-diverse acquisition function.
-- `toy_example.ipynb` — 1D sine-wave toy example demonstrating SVDKL posterior behaviour.
+- [`models.py`](https://gist.github.com/sponde25/1851362bd1449b5236690277769309b1#file-models-py) — model wrappers for MC Dropout, MVEE, and SVDKL (including `SVDKLLightningModule`).
+- [`acquisition.py`](https://gist.github.com/sponde25/1851362bd1449b5236690277769309b1#file-acquisition-py) — clustering and uncertainty-diverse acquisition function.
+- [`toy_example.ipynb`](https://gist.github.com/sponde25/1851362bd1449b5236690277769309b1#file-toy_example-ipynb) — 1D sine-wave toy example demonstrating SVDKL posterior behaviour.
 
 ## References
 

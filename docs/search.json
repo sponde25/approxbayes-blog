@@ -81,7 +81,7 @@
     "href": "posts/chemprop-uncertainty/index.html#reproducibility",
     "title": "Exploring Chemprop Uncertainty: A Practical Case Study",
     "section": "7 Reproducibility",
-    "text": "7 Reproducibility\nKey dependencies:\n\nchemprop&gt;=2.0 — message-passing neural networks with built-in MC Dropout and MVE uncertainty.\ngpytorch&gt;=1.11 — scalable Gaussian processes for the SVDKL layer.\nlightning&gt;=2.0 — training loop and checkpointing.\n\nCore code (available on GitHub):\n\nmodels.py — model wrappers for MC Dropout, MVEE, and SVDKL (including SVDKLLightningModule).\nacquisition.py — clustering and uncertainty-diverse acquisition function.\ntoy_example.ipynb — 1D sine-wave toy example demonstrating SVDKL posterior behaviour."
+    "text": "7 Reproducibility\nKey dependencies:\n\nchemprop&gt;=2.0 — message-passing neural networks with built-in MC Dropout and MVE uncertainty.\ngpytorch&gt;=1.11 — scalable Gaussian processes for the SVDKL layer.\nlightning&gt;=2.0 — training loop and checkpointing.\n\nCore code is available as a GitHub Gist:\n\nmodels.py — model wrappers for MC Dropout, MVEE, and SVDKL (including SVDKLLightningModule).\nacquisition.py — clustering and uncertainty-diverse acquisition function.\ntoy_example.ipynb — 1D sine-wave toy example demonstrating SVDKL posterior behaviour."
   },
   {
     "objectID": "posts/chemprop-uncertainty/index.html#references",
