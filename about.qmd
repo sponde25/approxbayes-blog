@@ -1,10 +1,32 @@
 ---
 title: "About"
-page-layout: full
+page-layout: article
 ---
 
-This blog covers probabilistic machine learning methods applied to molecular property prediction and drug discovery.
+## Hi, I'm Anirudh Jain
 
-Topics include: uncertainty quantification, active learning, Gaussian processes, graph neural networks, and cheminformatics.
+I'm a PhD student at **Aalto University** (Helsinki), supervised by [Dr. Samuel Kaski](https://people.aalto.fi/samuel.kaski), and an **ML/AI Scientist at Orion Pharma**, where I work on applying machine learning to drug discovery.
 
-Written by Anirudh Jain.
+My research sits at the intersection of probabilistic machine learning, molecular design, and Bayesian deep learning. Over the course of my PhD I have worked on:
+
+- **Graph generative models** for de novo molecular design, with a focus on conditional generation given user-specified properties (e.g. activity, selectivity, synthetic accessibility).
+- **Multi-target predictive models** for molecular property prediction across protein targets.
+- **Latent space exploration** — developing more efficient strategies for navigating the latent spaces of graph-based generative models.
+- **Scalable approximate Bayesian methods** for neural networks on large datasets (the subject of my Master's thesis).
+
+More recently, my interest has shifted toward **uncertainty quantification** in the context of active learning for molecular property prediction — which is what this blog is about.
+
+## This Blog
+
+I write about probabilistic machine learning methods applied to molecular property prediction and drug discovery. Posts tend to be practical and benchmark-driven: I implement something, run it on real data, and report what actually happens.
+
+Topics include uncertainty quantification, active learning, Gaussian processes, deep kernel learning, and graph neural networks for chemistry.
+
+## Contact
+
+- 📧 [anirudh.jain@orionpharma.com](mailto:anirudh.jain@orionpharma.com)
+- 🐙 [github.com/sponde25](https://github.com/sponde25)
+
+---
+
+*All views and opinions expressed on this blog are my own and do not represent the views of Orion Pharma or Aalto University.*
