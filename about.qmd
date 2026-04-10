@@ -1,0 +1,10 @@
+---
+title: "About"
+page-layout: full
+---
+
+This blog covers probabilistic machine learning methods applied to molecular property prediction and drug discovery.
+
+Topics include: uncertainty quantification, active learning, Gaussian processes, graph neural networks, and cheminformatics.
+
+Written by Arnaud Jain.

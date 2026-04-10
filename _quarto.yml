@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "approxbayes"
+  description: "Probabilistic machine learning for molecular discovery"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Blog
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/sponde25
+  favicon: favicon.ico
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    highlight-style: github
+    code-fold: true
+    code-tools: true
+    toc: true
+    toc-depth: 3
+    css: styles.css
