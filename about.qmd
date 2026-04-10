@@ -5,22 +5,15 @@ page-layout: article
 
 ## Hi, I'm Anirudh Jain
 
-I'm a PhD student at **Aalto University** (Helsinki), supervised by [Dr. Samuel Kaski](https://people.aalto.fi/samuel.kaski), and an **ML/AI Scientist at Orion Pharma**, where I work on applying machine learning to drug discovery.
+I'm a PhD student at **Aalto University** (Helsinki), supervised by [Dr. Samuel Kaski](https://people.aalto.fi/samuel.kaski), and a **ML/AI Scientist at Orion Pharma**, where I work on applying machine learning to drug discovery.
 
-My research sits at the intersection of probabilistic machine learning, molecular design, and Bayesian deep learning. Over the course of my PhD I have worked on:
-
-- **Graph generative models** for de novo molecular design, with a focus on conditional generation given user-specified properties (e.g. activity, selectivity, synthetic accessibility).
-- **Multi-target predictive models** for molecular property prediction across protein targets.
-- **Latent space exploration** — developing more efficient strategies for navigating the latent spaces of graph-based generative models.
-- **Scalable approximate Bayesian methods** for neural networks on large datasets (the subject of my Master's thesis).
-
-More recently, my interest has shifted toward **uncertainty quantification** in the context of active learning for molecular property prediction — which is what this blog is about.
+My day-to-day work spans predictive models for small molecules, generative AI for molecular design, and Bayesian deep learning. I'm also a core researcher on an AutoML platform for small-molecule property prediction. My broader research interests include scalable Bayesian methods, human-in-the-loop machine learning, active learning, and uncertainty quantification.
 
 ## This Blog
 
-I write about probabilistic machine learning methods applied to molecular property prediction and drug discovery. Posts tend to be practical and benchmark-driven: I implement something, run it on real data, and report what actually happens.
+This blog is about exploring novel ways to apply Bayesian machine learning to drug discovery — with a focus on practical implementations that actually work (or don't). I'll share quick experiments with recent papers I find exciting, write-ups of my own research, and honest accounts of approaches where we failed to get the results we expected.
 
-Topics include uncertainty quantification, active learning, Gaussian processes, deep kernel learning, and graph neural networks for chemistry.
+Topics include uncertainty quantification, active learning, Gaussian processes, deep kernel learning, generative models, and graph neural networks for chemistry.
 
 ## Contact
 
