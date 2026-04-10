@@ -1,6 +1,6 @@
 ---
 title: "Exploring Chemprop Uncertainty: A Practical Case Study"
-description: "Benchmarking MC Dropout, MVE Ensembles, and Stochastic Variational Deep Kernel Learning for uncertainty-guided active learning on ~900k molecular docking datasets."
+description: "Benchmarking MC Dropout, MVE Ensembles, and Stochastic Variational Deep Kernel Learning for uncertainty-guided active learning on 3 docking score datasets."
 author: "Anirudh Jain"
 date: "2025-04-10"
 categories: [uncertainty, active-learning, chemprop, deep-kernel-learning, gaussian-processes]
