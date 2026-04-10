@@ -5,9 +5,9 @@ page-layout: article
 
 ## Hi, I'm Anirudh Jain
 
-I'm a PhD student at **Aalto University** (Helsinki), supervised by [Dr. Samuel Kaski](https://people.aalto.fi/samuel.kaski), and a **ML/AI Scientist at [Orion Pharma](https://www.orionpharma.com/)**, where I work on applying machine learning to drug discovery.
+I'm a PhD student at **Aalto University**, supervised by [Dr. Samuel Kaski](https://people.aalto.fi/samuel.kaski), and a **ML/AI Scientist at [Orion Pharma](https://www.orionpharma.com/)**, where I work on applying machine learning to drug discovery.
 
-My day-to-day work spans predictive models for small molecules, generative AI for molecular design, and Bayesian deep learning. I'm also a core researcher on an AutoML platform for small-molecule property prediction. My broader research interests include scalable Bayesian methods, human-in-the-loop machine learning, active learning, and uncertainty quantification.
+My day-to-day work spans predictive models for small molecules, generative AI for molecular design, and Bayesian deep learning. I'm also a core researcher on an AutoML platform for small molecule property prediction. My broader research interests include scalable Bayesian methods, human-in-the-loop machine learning, active learning, and uncertainty quantification.
 
 ## This Blog
 
