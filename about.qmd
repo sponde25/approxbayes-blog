@@ -7,4 +7,4 @@ This blog covers probabilistic machine learning methods applied to molecular pro
 
 Topics include: uncertainty quantification, active learning, Gaussian processes, graph neural networks, and cheminformatics.
 
-Written by Arnaud Jain.
+Written by Anirudh Jain.

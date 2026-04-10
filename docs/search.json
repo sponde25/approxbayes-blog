@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This blog covers probabilistic machine learning methods applied to molecular property prediction and drug discovery.\nTopics include: uncertainty quantification, active learning, Gaussian processes, graph neural networks, and cheminformatics.\nWritten by Arnaud Jain."
+    "text": "This blog covers probabilistic machine learning methods applied to molecular property prediction and drug discovery.\nTopics include: uncertainty quantification, active learning, Gaussian processes, graph neural networks, and cheminformatics.\nWritten by Anirudh Jain."
   },
   {
     "objectID": "posts/chemprop-uncertainty/index.html",
@@ -74,6 +74,6 @@
     "href": "index.html",
     "title": "approxbayes",
     "section": "",
-    "text": "Exploring Chemprop Uncertainty: A Practical Case Study\n\n\n\nuncertainty\n\nactive-learning\n\nchemprop\n\ndeep-kernel-learning\n\ngaussian-processes\n\n\n\nBenchmarking MC Dropout, MVE Ensembles, and Stochastic Variational Deep Kernel Learning for uncertainty-guided active learning on ~900k molecular docking datasets.\n\n\n\n\n\nApr 10, 2025\n\n\nArnaud Jain\n\n\n\n\n\nNo matching items"
+    "text": "Exploring Chemprop Uncertainty: A Practical Case Study\n\n\n\nuncertainty\n\nactive-learning\n\nchemprop\n\ndeep-kernel-learning\n\ngaussian-processes\n\n\n\nBenchmarking MC Dropout, MVE Ensembles, and Stochastic Variational Deep Kernel Learning for uncertainty-guided active learning on ~900k molecular docking datasets.\n\n\n\n\n\nApr 10, 2025\n\n\nAnirudh Jain\n\n\n\n\n\nNo matching items"
   }
 ]
